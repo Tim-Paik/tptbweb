@@ -4,7 +4,7 @@ heroImage: logo.png
 heroText: Tim_Paik'ToolBox - 坚果工具箱
 tagline: 一个小小的可扩展的工具箱!
 actionText: 前往下载最新版本
-actionLink: https://download.fastgit.org/Tim-Paik/tptbweb/releases/download/0.1.4/TPToolBox-0.1.4.1624705338.exe
+actionLink: https://download.fastgit.org/Tim-Paik/tptbweb/releases/download/0.1.4/TPToolBox-0.1.4.zip
 features:
 - title: 明亮/暗黑模式
   details: 自动检测系统模式并且展示合适的颜色！
